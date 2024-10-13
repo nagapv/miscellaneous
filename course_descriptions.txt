@@ -1,0 +1,57 @@
+# Certifications
+## Analytics and DS
+- dbt Fundamentals											     dbt Labs, Inc 2024
+    Data modelling, source integration, testing, documentation, and deployment in data build tool.
+  
+- Measuring Total Data Quality				 		    EdX, University of Michigan 2024
+    Measuring validity, data origin quality, source quality, missingness, and analysis quality.
+  
+- The Total Data Quality Framework					    EdX, University of Michigan 2024
+    Introduction to the TDQ framework, dimensions of data quality, and other aspects.
+
+- Data Analysis for Social Scientists (14.310x)					      MITx Online 2023
+    A challenging course both theoretically (probability and statistical concepts) and practically (R coding and conducting the analysis). Covered topics such as hypothesis testing, causality, ML methods, etc. As taught on campus.
+
+- Data Visualization							       Coursera, University of Illinois 2021
+    Starting from essentials of human perception and different scholarly approaches to effective data visualization, introduced appropriate visuals for different types of data.
+
+- Databases: Relational and Semi-Structured Data		      Lagunita, Stanford Online 2017
+    Topics ranging from Introduction to Relations Databases to Advanced Topics in SQL; consisted of XML Data | JSON Data | Relational Algebra | SQL | XPath and XQuery | XSLT | Unified Modeling Language (UML) | Indexes and Transactions | Constraints and Triggers | Online Analytical Processing (OLAP).
+
+### Social Sciences and Research
+- Foundations of Development Policy (14.740x)					      MITx Online 2024
+The course content asks various questions to answer them using contemporary research studies. What drives the decision making of the poor households on the matters of education, health, gender, insurance, etc.? What are the constraints they face and policies have been implemented to address them? Doing so, enables us to construct similar economic models to study other scenarios, design and conduct research, data management and analysis using R to reach meaningful conclusions.
+
+- Introduction to Professional Scientific Communication			   NPTEL, IIT Kanpur 2024
+Focused on different aspects of scientific / research writing. Covered topics such as creative approaches to research, reasoning, iterative methodology starting from hypothesis, editing, research ethics, publication guidelines, and oral communication.
+
+- Microeconomics	(14.100x)							     	              MITx Online 2023
+An in depth course of microeconomic theory and (mathematical) models for understanding real world behaviors and policy implications. Topics included supply and demand, consumer and producer theory, competition and markets, capital markets, equity and efficiency, behavioral economics, etc.
+
+- Designing and Running Randomized Evaluations (JPAL 102x)	      Edx, MITx Online 2019
+It is a practical, thus multi-faceted course introducing state of the art RCTs for scientific studies. The topics range from study design, sampling, and measurement / survey methodology to monitoring, data management, and research integrity.	
+
+- The Challenges of Global Poverty (14.73x)					      Edx, MITx Online 2019
+A dedicated course for introducing contemporary development challenges globally by Nobel laureates Abhijit V Banerjee and Esther Duflow, closely following their book Poor Economics; w.r.t to poverty, health, education, etc.
+
+- Principles of Economics with Distinction			       Lagunita, Stanford Online 2019
+An introductory undergraduate level course by Prof. John B Taylor that covered basics of microeconomic analysis, macroeconomic concepts, and international relations.
+
+- Social Psychology								  Goethe University, Frankfurt 2014
+The course was conducted from October 2013 to February 2014 by the Department of Social Psychology and the Center for Leadership and Behaviour in Organization (CLBO); closely following the text book of David G Myers. A certificate was issued by the university upon completion of all modules and a final assessment.
+
+### CS and Programming
+- Text Retrieval and Search Engines				       Coursera, University of Illinois 2021
+The course as  part of a “Data Mining” specialization teaches basic NLP techniques, different text retrieval methods (for search engines, etc.), web crawling and indexing, and ranking methodologies, and some recommendation system approaches.
+
+- Essential Math for Machine Learning: Python Edition (DAT256x)	   Edx, Microsoft 2019
+Basic introduction to mathematical, statistical concepts related to machine learning.
+
+- Introduction to Python for Data Science (DAT208x)				  EdX, Microsoft 2016
+Programming topics related to DS; Introducing the NumPy, Pandas, Matplotlib, etc.
+
+- Principles of Computing (Part 2)						Coursera, Rice University 2016
+	Basic mathematical and programming principles of CS.
+
+- An Introduction to Interactive Programming (Part 1)		Coursera, Rice University 2015
+	Beginner Python programming and writing of simple interactive applications / games.
